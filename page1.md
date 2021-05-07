@@ -1,6 +1,7 @@
 | [Home](README.md) | [**Habitat**](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## Habitat
 [Source](https://bearwithus.org/8-bears-of-the-world/) unless specified.
+
 Bears are located all across the world. We tend to think of bears limited to dense forests, but there is much _more_ to it, especially outside of North America.
 
 #### North-American Black Bear
