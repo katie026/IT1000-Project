@@ -2,7 +2,15 @@
 ## Diet
 Bears are known to be scary and dangerous. We tend to see them as _pure_ meat eaters and vicious hunters, but they are in fact **omnivores** and have an exaggerated image.
 #### North-American Black Bear
->American black bears are omnivorous, meaning they will eat a variety of things, including both plants and meat. Their diet includes roots, berries, meat, fish, insects, larvae, grass, and other succulent plants. They are able to kill adult deer and other hoofed wildlife but most commonly are only able to kill deer, elk, moose, and other hoofed animals when the prey are very young. They are able to kill livestock, especially sheep. Bears are very attracted to human garbage, livestock food or pet food, or other human-associated foods like fruit trees. Bears using these human-associated foods can quickly become habituated to them and this commonly results in the bears being killed as nuisances. This is true for bee hives as well, as bears are very attracted to honey.
+>American black bears are omnivorous, meaning they will eat a variety of things, including both plants and meat. Their diet includes
+* roots
+* berries
+* meat, fish
+* insects
+* larvae
+* grass
+* and other succulent plants
+>They are able to kill adult deer and other hoofed wildlife but most commonly are only able to kill deer, elk, moose, and other hoofed animals when the prey are very young. They are able to kill livestock, especially sheep. Bears are very attracted to human garbage, livestock food or pet food, or other human-associated foods like fruit trees. Bears using these human-associated foods can quickly become habituated to them and this commonly results in the bears being killed as nuisances. This is true for bee hives as well, as bears are very attracted to honey.
 [Source](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/black-bear)
 ### Brown Bear
 >Brown bears are omnivorous, eating a mixed diet of plants, berries, fish, and small mammals. Unlike black bears, brown bears have long, strong claws that they use to dig for food, pick fruits, and catch prey.
