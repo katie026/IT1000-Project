@@ -38,6 +38,13 @@ Learn more at [bearwithus.org](https://bearwithus.org/8-bears-of-the-world/)
 ### Sun Bear
 ![sun bear](https://i.natgeofe.com/k/c6aaf871-00e9-499d-a874-26d283402aae/sun-bear-gold-collar.jpg?w=1200)
 
+---
+Some example code:
+
 ```
-Code???
+From [National Geographic]():
+>Bears are mammals that belong to the family Ursidae.
+
+### The North-American Black Bear
+![NA black bear](blackBear.jpeg)
 ```
