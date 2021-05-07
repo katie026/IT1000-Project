@@ -1,4 +1,4 @@
-| [Home](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
+| [Home](README.md) | [Habitat](page1.md) | [**Diet**](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## Diet
 #### North-American Black Bear
 >American black bears are omnivorous, meaning they will eat a variety of things, including both plants and meat. Their diet includes roots, berries, meat, fish, insects, larvae, grass, and other succulent plants. They are able to kill adult deer and other hoofed wildlife but most commonly are only able to kill deer, elk, moose, and other hoofed animals when the prey are very young. They are able to kill livestock, especially sheep. Bears are very attracted to human garbage, livestock food or pet food, or other human-associated foods like fruit trees. Bears using these human-associated foods can quickly become habituated to them and this commonly results in the bears being killed as nuisances. This is true for bee hives as well, as bears are very attracted to honey.
