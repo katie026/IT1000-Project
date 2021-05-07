@@ -11,9 +11,9 @@ Bears are also kept in zoos. I would guess you have visited at last even one. Th
 
 Here are a list of possible side effects of captivity:
 * likely to exhibit neurotic behaviors:
- * pacing
- * walking in circles
- * rolling or bobbing their heads
- * swaying from side to side, which zoo visitors often misinterpret as “dancing.”
+  * pacing
+  * walking in circles
+  * rolling or bobbing their heads
+  * swaying from side to side, which zoo visitors often misinterpret as “dancing.”
 
 For even more examples, visit [Bear Conservation](http://www.bearconservation.org.uk/threats-captive-bears/) (source).
