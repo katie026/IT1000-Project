@@ -1,6 +1,7 @@
 | [Home](README.md) | [**Habitat**](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## Habitat
 [Source](https://bearwithus.org/8-bears-of-the-world/) unless specified.
+Bears are located all across the world. We tend to think of bears limited to dense forests, but there is much _more_ to it, especially outside of North America.
 
 #### North-American Black Bear
 >The North American Black Bear is the most common bear in North America ranging from the State of Florida north, into Canada and north to Alaska. The black and brown colour phase of the black bear is common. The white colour phase is more rare occuring in north western British Columbia, Canada.
