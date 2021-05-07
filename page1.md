@@ -1,4 +1,4 @@
-| [Home](README.md) | [Habitat](page1.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md) |
+| [Home](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## Habitat
 [Source](https://bearwithus.org/8-bears-of-the-world/) unless specified.
 
