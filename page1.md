@@ -4,8 +4,23 @@
 
 Bears are located all across the world. We tend to think of bears limited to dense forests, but there is much _more_ to it, especially outside of North America.
 
-#### North-American Black Bear
+##
+
+### North-American Black Bear
 >The North American Black Bear is the most common bear in North America ranging from the State of Florida north, into Canada and north to Alaska. The black and brown colour phase of the black bear is common. The white colour phase is more rare occuring in north western British Columbia, Canada.
+
+[Animals.net](https://animals.net/black-bear/) says:
+> This behavior occurs especially frequently when their habitats are scarce in acorns, tree nuts, and berries. People have found them in
+* juniperwoods
+* chaparral
+* oak forests
+* hickory forests
+* bays
+* swamps
+* flatwoods
+* hardwood forests
+* meadows, and more
+
 ### Brown Bear
 >The Brown Bear can be found in Alaska, western Canada,and parts of Washington, Montana and Wyoming. Small individual populations are scattered throughout parts of Europe and Asia. Russia has a healthy population of brown bears currently.
 
