@@ -5,7 +5,12 @@ Bears are also well known for their characteristic hibernation period. This is d
 
 However, this is common _misconception_. ([Source](https://www.scienceworld.ca/stories/do-bears-actually-hibernate/))
 
->they actually participate in a similar, though not exact, practice. Instead of hibernating, bears fall into a deep sleep called **_torpor_**. During torpor, heart rate and breathing rate decreases, body temperature reduces slightly and bears do not eat or release bodily waste. Bears can sleep more than 100 days without eating, drinking, or passing waste! Instead, bears are able to literally turn their pee into protein through a urea recycling process. The urea produced by their fat metabolism is broken down and the nitrogen is re-used by the bear to rebuild protein.
+>they actually participate in a similar, though not exact, practice. Instead of hibernating, bears fall into a deep sleep called **_torpor_**. During torpor...
+* heart rate
+* breathing rate decreases
+* body temperature reduces slightly
+* bears do not eat or release bodily waste
+>Bears can sleep more than 100 days without eating, drinking, or passing waste! Instead, bears are able to literally turn their pee into protein through a urea recycling process. The urea produced by their fat metabolism is broken down and the nitrogen is re-used by the bear to rebuild protein.
 
 >The main difference between hibernation and torpor is that during torpor, the animal is able to wake up easily if hurt or threatened by predators. Pregnant female bears can also wake up from torpor to give birth, then go back to sleep afterwards!
 
