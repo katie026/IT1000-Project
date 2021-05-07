@@ -1,5 +1,4 @@
 | [**Home**](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
-| --------------------- | ------------------- | ---------------- | --------------------- | ------------------------|
 ## The Bears of the World
 ### About
 Bears are a common animal in our minds, but we tend to forget that there's _more_ to bears than a cute Panda, a scary Grizzly, and a white Polar Bear.
