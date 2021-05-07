@@ -39,6 +39,7 @@ Bears are located all across the world. We tend to think of bears limited to den
 >The bears are native to the Andean countries from Venezuela to Bolivia, living in forests, grasslands, and scrublands. Andean bears are true arboreal bears, using their long, sharp front claws to climb and forage for food. As they search for food in the forest, Andean bears live an arboreal lifestyle.
 
 [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjn9ITovLjwAhXDKs0KHaV4CicQFjACegQIAxAD&url=https%3A%2F%2Fanimals.sandiegozoo.org%2Fanimals%2Fandean-spectacled-bear&usg=AOvVaw0sKSt7BrxOpXTRgWR6qqMB)
+![bolivian grasslands](boliviaGrassland.jpg)
 
 ### Panda Bear
 >Pandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo.
