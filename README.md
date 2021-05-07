@@ -1,6 +1,6 @@
 | [Home](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## The Bears of the World
-###About
+### About
 Bears are a common animal in our minds, but we tend to forget that there's more to bears than a cute Panda, scary Grizzly, and white Polar Bear.
 ### How Many Species?
 There are 8 different species of bear:
