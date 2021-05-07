@@ -17,7 +17,9 @@ Here are a list of possible side effects of captivity:
   * swaying from side to side, which zoo visitors often misinterpret as “dancing.”
 
 For even more examples, visit [Bear Conservation](http://www.bearconservation.org.uk/threats-captive-bears/) (source).
+
 ---
+
 Some example code:
 
 ```
