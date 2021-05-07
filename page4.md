@@ -6,7 +6,7 @@ Bears are also well known for their characteristic hibernation period. This is d
 However, this is common _misconception_. ([Source](https://www.scienceworld.ca/stories/do-bears-actually-hibernate/))
 
 >they actually participate in a similar, though not exact, practice. Instead of hibernating, bears fall into a deep sleep called **_torpor_**. During torpor...
-* heart rate
+* heart rate decreases
 * breathing rate decreases
 * body temperature reduces slightly
 * bears do not eat or release bodily waste

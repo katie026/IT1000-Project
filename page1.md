@@ -55,3 +55,13 @@ Giant pandas live in broadleaf and coniferous forests with a dense understory of
 
 ### Sun Bear
 >Sun bears live in south east Asia: Brunei Darussalam, Cambodia, China, India, Indonesia, Lao Peoples Democratic Republic, Malaysia, Myanmar, Thailand and Vietnam.
+---
+Some example code:
+
+```
+[Animals.net](https://animals.net/black-bear/) says:
+> This behavior occurs especially frequently when their habitats are scarce in acorns, tree nuts, and berries. People have found them in
+* juniperwoods
+* chaparral
+* oak forests
+```

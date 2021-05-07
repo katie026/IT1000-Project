@@ -46,3 +46,11 @@ A giant panda's digestive system is more similar to that of a carnivore than an 
 >Sun bears are excellent climbers and spend considerable time in trees. They feed on sweet fruits, small rodents, birds, termites, and other insects. Southeast Asian tropical forests, including tropical evergreen rainforest, montane forest and swamp habitat.
 
 [Source](https://wwf.panda.org/discover/our_focus/wildlife_practice/profiles/mammals/sun_bear/)
+---
+Some example code:
+
+```
+![panda eating bamboo](https://northernvirginiamag.com/wp-content/uploads/2019/11/bei-bei-leaves-for-china-feature-national-zoo.jpg)
+### Sloth Bear
+>Beetles, grubs and other insects round out their diet.
+```
