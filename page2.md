@@ -12,6 +12,8 @@ Bears are known to be scary and dangerous. We tend to see them as _pure_ meat ea
 * and other succulent plants
 >They are able to kill adult deer and other hoofed wildlife but most commonly are only able to kill deer, elk, moose, and other hoofed animals when the prey are very young. They are able to kill livestock, especially sheep. Bears are very attracted to human garbage, livestock food or pet food, or other human-associated foods like fruit trees. Bears using these human-associated foods can quickly become habituated to them and this commonly results in the bears being killed as nuisances. This is true for bee hives as well, as bears are very attracted to honey.
 [Source](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/black-bear)
+
+![black bear eating berries](blackBearEat.jpg)
 ### Brown Bear
 >Brown bears are omnivorous, eating a mixed diet of plants, berries, fish, and small mammals. Unlike black bears, brown bears have long, strong claws that they use to dig for food, pick fruits, and catch prey.
 [Source](https://www.nps.gov/subjects/bears/brown-bears.htm)
@@ -34,6 +36,8 @@ Bears are known to be scary and dangerous. We tend to see them as _pure_ meat ea
 A giant panda's digestive system is more similar to that of a carnivore than an herbivore, and so much of what is eaten is passed as waste. To make up for the inefficient digestion, a panda needs to consume a comparatively large amount of food—from 20 to 40 pounds of bamboo each day—to get all its nutrients. To obtain this much food means that a panda must spend 10 to 16 hours a day foraging and eating. The rest of its time is spent mostly sleeping and resting.
 
 [Source](https://nationalzoo.si.edu/animals/giant-panda)
+
+![panda eating bamboo](https://northernvirginiamag.com/wp-content/uploads/2019/11/bei-bei-leaves-for-china-feature-national-zoo.jpg)
 ### Sloth Bear
 >Beetles, grubs and other insects round out their diet. During food shortages, sloth bears will eat carrion. They also sometimes raid farm crops. The Smithsonian's National Zoo's sloth bears eat a dry-food mixture designed for omnivores, plus fruits and vegetables, such as apples, sweet potatoes and grapes.
 
