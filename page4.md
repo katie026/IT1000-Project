@@ -14,6 +14,6 @@ However, this is common _misconception_. ([Source](https://www.scienceworld.ca/s
 
 ---
 Some example code:
-``
+```
 this is common _misconception_. ([Source](https://www.scienceworld.ca/stories/do-bears-actually-hibernate/))
-``
+```
