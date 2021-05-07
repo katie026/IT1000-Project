@@ -21,7 +21,7 @@ Bears are located all across the world. We tend to think of bears limited to den
 * hardwood forests
 * meadows, and more
 
-[oak forest](https://cdn-bdicl.nitrocdn.com/RSCqftZuWidWmHFznlgqqVsWEVPzurQE/assets/static/source/rev-48f40e4/wp-content/uploads/2018/05/Webp.net-compress-image-1-750x500.jpg)
+![oak forest](https://cdn-bdicl.nitrocdn.com/RSCqftZuWidWmHFznlgqqVsWEVPzurQE/assets/static/source/rev-48f40e4/wp-content/uploads/2018/05/Webp.net-compress-image-1-750x500.jpg)
 
 ### Brown Bear
 >The Brown Bear can be found in Alaska, western Canada,and parts of Washington, Montana and Wyoming. Small individual populations are scattered throughout parts of Europe and Asia. Russia has a healthy population of brown bears currently.
