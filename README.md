@@ -13,6 +13,8 @@ There are 8 different species of bear:
 7. Sloth Bear
 8. Sun Bear
 
+Learn more at [bearwithus.org](https://bearwithus.org/8-bears-of-the-world/)
+
 ### The North-American Black Bear
 ![NA black bear](https://www.venture-rv.com/vacation-planner/4-legged-critters/images/Black-Bear.jpg)
 ### Brown Bear
