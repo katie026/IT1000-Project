@@ -22,7 +22,7 @@ There are 8 different species of bear:
 Learn more at [bearwithus.org](https://bearwithus.org/8-bears-of-the-world/)
 
 ### The North-American Black Bear
-![NA black bear](https://www.venture-rv.com/vacation-planner/4-legged-critters/images/Black-Bear.jpg)
+![NA black bear](blackBear.jpeg)
 ### Brown Bear
 ![brown bear](https://www.thoughtco.com/thmb/CcGtsWzKtmaeYCGrr5EEnK41T5A=/3863x2173/smart/filters:no_upscale()/close-up-view-of-a-mother-brown-bear-standing-over-her-cub-as-they-appear-to-be-looking-out-for-any-danger--kuril-lake--kamchatka--russia--827261734-5b97dfaa46e0fb0050b348af.jpg)
 ### Polar Bear
