@@ -11,3 +11,9 @@ However, this is common _misconception_. ([Source](https://www.scienceworld.ca/s
 
 ![bear in cave](https://bear.org/wp-content/uploads/2008/10/Den-Junes-Cub.jpg)
 ![bear sleeping](bearSleeping.jpg)
+
+---
+Some example code:
+``
+this is common _misconception_. ([Source](https://www.scienceworld.ca/stories/do-bears-actually-hibernate/))
+``
