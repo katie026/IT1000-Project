@@ -1,4 +1,4 @@
-| [Home](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Population/Hibernation](page4.md) |
+| [Home](README.md) | [Habitat](page1.md) | [Diet](page2.md) | [Captivity](page3.md) | [Hibernation](page4.md) |
 ## The Bears of the World
 ### How Many Species?
 There are 8 different species of bear:
